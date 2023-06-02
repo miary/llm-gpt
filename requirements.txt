@@ -14,3 +14,4 @@ fastapi
 gunicorn
 python-multipart
 streamlit
+uvicorn==0.22.0
